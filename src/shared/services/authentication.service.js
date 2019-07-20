@@ -1,0 +1,1 @@
+// service to authenticate users, log them in and logout.
